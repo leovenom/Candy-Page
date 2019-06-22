@@ -51,11 +51,9 @@ body {
     transition: background 500ms;
 }
 .text-muted {
-    color: white!important;
+    color: rgb(131, 123, 123)52, 252, 252)!important;
     font-family: "Nunito";
     font-weight: 100;
     font-size: 1.125rem;
 }
-.footer {
-    background-color: rgb(224, 165, 224);
-}
+
