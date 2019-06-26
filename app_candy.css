@@ -51,8 +51,18 @@ body {
     transition: background 500ms;
 }
 .footer {
-    color:white!important;
+    color: rgb(197, 170, 197)!important;
     font-family: "Nunito";
     font-weight: 100;
     font-size: 1.125rem;
+}
+.footer:hover {
+    color: #ea1c2c!important;
+}
+
+.fb-ic {
+    color:rgb(222, 192, 222);
+}
+.fb-ic:hover {
+    color: #ea1c2c;
 }
